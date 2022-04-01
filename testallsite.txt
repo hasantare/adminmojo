@@ -1,0 +1,83 @@
+#: https://www.thebooks360.com/
+
+1. in mobile  and desktop
+.social-share li:last-child{
+margin-top: 10px;
+}
+
+
+2. check category and remove more if not extra (not resolve)
+
+3. add font-awesome woff and tff
+
+
+#:https://kafehealthy.com/
+
+1. search 
+
+2. in mobile  and desktop 
+
+  .footer-container {
+    background-color: #e34544;
+}
+ @media (min-width: 960px) {
+  .footer-container {
+    background-color: #e34544;
+}
+
+}
+.wpb_single_image img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+
+3.add font file woodmart
+
+
+#https://thesciencestory.com/#
+
+1. icon not show add tipi file
+
+
+
+#https://www.yosofunny.com/
+
+1.   @media (min-width: 960px) {a.logo-container{
+font-size: 28px;
+}}
+
+2. fixed mobile menu on scroll
+
+
+
+#https://www.glamnews24.com/(nelluecsite)
+
+1. in mobile menu search not show
+
+
+#https://www.ababyhandbook.com/
+
+1. mobile menu and search create 
+
+
+
+#https://www.loveguruclub.com/
+
+1. mobile menu print all category
+
+
+
+#https://www.thebitcoinzone.com/
+
+
+1. In mobile menu serach issue
+
+
+
+#https://www.asianewstimes.com/
+
+
+1. Im mobile menu  and search not show 
+
